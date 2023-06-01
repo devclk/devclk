@@ -1,7 +1,7 @@
 ### Olá! Me chamo Cleberson Kaue
 
 - 🔭 Desenvolvedor de software e web 
-- 🌱 "un dia chegará o grande dia!"
+- 🌱 "um dia chegará o grande dia!"
 
 
 <div>
